@@ -41,3 +41,14 @@ p {
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
 }
+
+#foter {
+    text-align: center;
+    background-color: black;
+    color: lightgray;
+    padding-top: 40px;
+    margin-bottom: auto;
+    padding-bottom: 30px;
+
+
+}
