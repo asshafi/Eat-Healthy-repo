@@ -1,0 +1,43 @@
+.orange-color {
+    color: rgb(248, 165, 13);
+}
+
+h1 {
+    font-size: 40px;
+    padding-left: 20px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 30px;
+    padding-left: 20px;
+    margin-bottom: 35px;
+}
+
+#female {
+    height: 600px;
+}
+
+.half-width {
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-right: 0;
+}
+
+.linkbutton {
+    text-decoration: none;
+    padding: 15px 15px;
+    border-radius: 30px;
+    font-weight: 1000;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-image: linear-gradient(45deg, orange, tomato);
+}
+
+.top-section {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
